@@ -22,21 +22,21 @@
 			<!-- menu-list -->
 			<li class="menu-list">
 				<!-- menu-link -->
-				<a href="index.php" class="menu-link">home</a>
+				<a href="index.html" class="menu-link">home</a>
 				<!-- menu-link -->
 			</li>
 			<!-- menu-list -->
 			<!-- menu-list -->
 			<li class="menu-list">
 				<!-- menu-link -->
-				<a href="listings.php" class="menu-link">ads</a>
+				<a href="listings.html" class="menu-link">ads</a>
 				<!-- menu-link -->
 				</li>
 				<!-- menu-list -->
 			<!-- menu-list -->
 			<li class="menu-list show-dropdown">
 				<!-- menu-link -->
-				<a href="about.php" class="menu-link show">About <span class="dropdown-icn"></span></a>		
+				<a href="about.html" class="menu-link show">About <span class="dropdown-icn"></span></a>		
 				<!-- menu-link -->
 				<div class="menu-box">
 					<!-- sub-menu -->
@@ -77,21 +77,21 @@
 				<!-- menu-list -->
 				<li class="menu-list">
 				<!-- menu-link -->
-				<a href="blog.php" class="menu-link">blog</a>
+				<a href="blog.html" class="menu-link">blog</a>
 				<!-- menu-link -->
 				</li>
 				<!-- menu-list -->
 				<!-- menu-list -->
 				<li class="menu-list bar-line">
 				<!-- menu-link -->
-				<a href="contact.php" class="menu-link">contact</a>
+				<a href="contact.html" class="menu-link">contact</a>
 				<!-- menu-link -->
 				</li>
 				<!-- menu-list -->
 				<!-- menu-list -->
 				<li class="menu-list">
 				<!-- menu-link -->
-				<a href="login.php" class="menu-link">log in</a>
+				<a href="login.html" class="menu-link">log in</a>
 				<!-- menu-link -->
 				</li>
 				<!-- menu-list -->
